@@ -2,7 +2,7 @@
 📚 Book Data Manager
 A JavaScript-based application that generates, stores, and manages a list of 100 randomly generated books with advanced search, sorting, pagination, and similarity recommendations. The app uses Local Storage for persistence and supports both Promises and Async/Await versions of asynchronous code.
 
-🔧 Features
+🔧 Features<br>
 ✅ Generate & Store Book Data
 Generates 100 random books (with bookId, genre, price, author, publicationYear)
 
